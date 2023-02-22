@@ -2,7 +2,7 @@
 Regression models can be used to make stock predictions using a Tesla stock dataset. The idea is to fit a regression model to historical stock data and use it to predict future values. For example, a simple linear regression model can be trained using the closing price of Tesla stock as the dependent variable and time as the independent variable. The model can then be used to make predictions for future dates. However, it is important to keep in mind that stock prices are highly unpredictable and no model can guarantee accurate predictions. It is also essential to consider factors such as market trends, economic indicators, and company-specific news while making predictions.
 
 # Linear regression :-
-Linear regression is a statistical method that models the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the observed data. In the context of stock prediction, this could mean fitting a linear equation to the historical closing prices of a stock and using that equation to make predictions for future prices.
+Linear regression is a statistical method that models the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the observed data. In the context of stock prediction, this could mean that fitting a linear equation to the historical closing prices of a stock and using that equation to make predictions for future prices.
 
 # Lasso Regression:
 Lasso regression is a type of linear regression that uses L1 regularization to shrink the coefficients of the features that are less important to near zero. In stock prediction, this could help reduce the impact of irrelevant factors and improve the accuracy of the predictions. The lasso regression method is implemented in many programming languages and software packages, including Python's scikit-learn library.
@@ -28,7 +28,7 @@ Prophet is a time series forecasting library developed by Facebook. It uses a Ba
 LSTM (Long Short-Term Memory) is a type of Recurrent Neural Network (RNN) used for sequence prediction and analysis. LSTMs are particularly useful in time series analysis as they are able to capture long-term dependencies and effectively deal with problems like vanishing gradients in traditional RNNs.
 
 # RNN:
-Recurrent Neural Networks (RNNs) are a type of neural network designed for processing sequential data, such as time series data. RNNs have a memory mechanism that allows them to maintain information from previous inputs, making them suitable for modeling sequential relationships in time series data.
+Recurrent Neural Networks(RNNs) are a type of neural network designed for processing sequential data, such as time series data. RNNs have a memory mechanism that allows them to maintain information from previous inputs, making them suitable for modeling sequential relationships in time series data.
 
 
 # Dataset link (NIFTY) :- 
